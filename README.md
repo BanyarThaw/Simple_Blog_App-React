@@ -1,8 +1,10 @@
 #Run React App
-npm start
+
+### `npm start`
 
 #Run JSON Server
-npx json-server -p 3500 -w data/db.json
+
+### `npx json-server -p 3500 -w data/db.json`
 
 # Getting Started with Create React App
 
